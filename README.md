@@ -1,3 +1,3 @@
-# react-template
+# todolist
 
 Todolist with react
