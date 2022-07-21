@@ -1,5 +1,5 @@
 {
-  "name": "react-template",
+  "name": "todolist",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build": "webpack --config webpack.config.js"
   },
   "keywords": [
-    "template",
+    "todolist",
     "webpack",
     "react"
   ],
